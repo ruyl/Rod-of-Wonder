@@ -1,4 +1,4 @@
-# Wild Magic
+# Rod of Wonder
 Fork from https://github.com/Hideous/hideous.github.io/
 
 # Original Readme:
